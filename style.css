@@ -1,0 +1,14 @@
+#opciones {
+  width: 20vw;
+  display: inline;
+}
+
+#line-chart {
+  width: 80vw;
+  display: inline;
+}
+
+#react-entry-point {
+  text-align:center;
+}
+
